@@ -5,7 +5,7 @@ Programming Languages
 ---------------------
  * _(Experienced)_
  ECMAScript (JavaScript),
- node.js/CommonJS,
+ node.js,
  Python,
  HTML5/CSS3,
  XML,
