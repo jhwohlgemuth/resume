@@ -21,6 +21,7 @@ Programming Languages
 JavaScript Libraries and Frameworks
 -----------------------------------
  * Backbone.js, Cesium.js, MarionetteJS, jQuery, RequireJS (_AMD _)
+ * Underscore.js, Lodash.js, Ramda.js (**note:** I love functional programming)
 
 Database Technologies and DevOps
 --------------------------------
