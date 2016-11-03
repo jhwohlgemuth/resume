@@ -36,10 +36,10 @@ Software
  * Atlassian JIRA, Stash, Confluence
  * Adobe Photoshop, Adobe Fireworks, Adobe Illustrator, Adobe Flash
 
-Security ([certifications](#certifications))
+Security
 --------
- * Kali Linux, Metasploit framework, OpenSCAP
  * Web Application security
+ * OpenSCAP, Kali Linux, Metasploit framework
 
 SKILLS
 ======
