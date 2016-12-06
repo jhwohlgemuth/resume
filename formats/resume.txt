@@ -9,14 +9,13 @@ Programming Languages
  Python,
  HTML5/CSS3,
  XML,
- LaTeX,
- ActionScript
+ Bash,
+ LaTeX
  * _(Familiar)_
  Java SE,
  PHP,
  SQL,
- VBA,
- Bash
+ VBA
 
 JavaScript Libraries and Frameworks
 -----------------------------------
@@ -26,7 +25,7 @@ JavaScript Libraries and Frameworks
 Database Technologies and DevOps
 --------------------------------
  * _(Database Technologies)_ MongoDB, redis, CouchDB, MySQL
- * _(Continuous Integration)_ Jenkins, TeamCity
+ * _(Continuous Integration)_ Jenkins, TeamCity, Travis, Codeship
  * _(Development and Deployment)_ Git, nvm, npm, Grunt, Gulp, Browserify
 
 Software
@@ -34,12 +33,12 @@ Software
  * Docker, Vagrant, Packer, VMWare, VirtualBox, Linux, RHEL
  * Almost any front-end IDE/editor (current favorite is Atom)
  * Atlassian JIRA, Stash, Confluence
- * Adobe Photoshop, Adobe Fireworks, Adobe Illustrator, Adobe Flash
+ * Adobe Fireworks, Adobe Illustrator, Adobe Flash
 
 Security
 --------
  * Web Application security
- * OpenSCAP, Kali Linux, Metasploit framework
+ * OpenSCAP and Kali Linux
 
 SKILLS
 ======
