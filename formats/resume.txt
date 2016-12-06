@@ -35,10 +35,14 @@ Software
  * Atlassian JIRA, Stash, Confluence
  * Adobe Fireworks, Adobe Illustrator, Adobe Flash
 
-Security
---------
- * Web Application security
- * OpenSCAP and Kali Linux
+Web Application security
+------------------------
+ * MITRE CVE and CWE
+ * So Now You Know (snyk)
+ * Node Security Platform (nsp)
+ * bithound.io
+ * OpenSCAP
+ * Kali Linux
 
 SKILLS
 ======
