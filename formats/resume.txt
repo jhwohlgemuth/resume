@@ -20,7 +20,7 @@ Programming Languages
 JavaScript Libraries and Frameworks
 -----------------------------------
  * Backbone.js, Cesium.js, MarionetteJS, jQuery, RequireJS (_AMD _)
- * Underscore.js, Lodash.js, Ramda.js (**note:** I love functional programming)
+ * Lodash.js, Redux.js, Immutable.js (**note:** I love functional programming)
 
 Database Technologies and DevOps
 --------------------------------
@@ -42,7 +42,6 @@ Web Application security
  * Node Security Platform (nsp)
  * bithound.io
  * OpenSCAP
- * Kali Linux
 
 SKILLS
 ======
@@ -68,6 +67,7 @@ EXPERIENCE
 _@BAE Systems _
 
  * Developing and implementing front-end architecture and workflow for multi-million dollar application
+ * Subject matter expert and experienced mentor on all things front-end (JS/HTML/CSS)
 
 08/15 - 11/15, ***Senior Software Developer***
 ------------------------------------------------
@@ -101,6 +101,8 @@ _@USS Louisiana (SSBN 743)_
 PROFESSIONAL AWARDS
 ===================
 
+* __2017__  Joint Service Achievement Medal
+* __2014__  Joint Service Commendation Medal
 * __2011__  Joint Service Achievement Medal
 * __2010__  Navy and Marine Corps Achievement
 
