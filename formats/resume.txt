@@ -26,7 +26,7 @@ Database Technologies and DevOps
 --------------------------------
  * _(Database Technologies)_ MongoDB, redis, CouchDB, MySQL
  * _(Continuous Integration)_ Jenkins, TeamCity, Travis, Codeship
- * _(Development and Deployment)_ Git, nvm, npm, Grunt, Gulp, Browserify
+ * _(Development and Deployment)_ Git, nvm, npm, Grunt, Gulp, Browserify, Babel
 
 Software
 --------
