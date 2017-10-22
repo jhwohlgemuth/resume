@@ -5,34 +5,32 @@ Programming Languages
 ---------------------
  * _(Experienced)_
  ECMAScript (JavaScript),
- node.js,
- Python,
- HTML5/CSS3,
- XML,
- Bash,
- LaTeX
+ Node.js,
+ HTML/XML/CSS,
+ Bash
  * _(Familiar)_
- Java SE,
- PHP,
- SQL,
- VBA
+ Clojure,
+ ClojureScript,
+ Elm,
+ ML (Reason, OCaml, F#),
+ Python
 
 JavaScript Libraries and Frameworks
 -----------------------------------
- * Backbone.js, Cesium.js, MarionetteJS, jQuery, RequireJS (_AMD _)
+ * Backbone.js, Cesium.js, MarionetteJS, React.js, jQuery, RequireJS (_AMD _)
  * Lodash.js, Redux.js, Immutable.js (**note:** I love functional programming)
 
 Database Technologies and DevOps
 --------------------------------
  * _(Database Technologies)_ MongoDB, redis, CouchDB, MySQL
  * _(Continuous Integration)_ Jenkins, TeamCity, Travis, Codeship
- * _(Development and Deployment)_ Git, nvm, npm, Grunt, Gulp, Browserify, Babel
+ * _(Development and Deployment)_ Git, nvm, npm, Grunt, Gulp, Browserify, Babel, Webpack
 
 Software
 --------
  * Docker, Vagrant, Packer, VMWare, VirtualBox, Linux, RHEL
  * Almost any front-end IDE/editor (current favorite is Atom)
- * Atlassian JIRA, Stash, Confluence
+ * Atlassian JIRA, Stash (Bitbucket Server), Confluence
  * Adobe Fireworks, Adobe Illustrator, Adobe Flash
 
 Web Application security
