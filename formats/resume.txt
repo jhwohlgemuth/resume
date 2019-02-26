@@ -6,19 +6,27 @@ Programming Languages
  * _(Experienced)_
  ECMAScript (JavaScript),
  Node.js,
- HTML/XML/CSS,
- Bash
+ HTML/XML/CSS
  * _(Familiar)_
+ Rust,
+ Kotlin,
  Clojure,
  ClojureScript,
  Elm,
  ML (Reason, OCaml, F#),
  Python
 
-JavaScript Libraries and Frameworks
+> I believe understanding math and functional programming are essential in order to excel at writing sustainable software.
+
+JavaScript Tools, Libraries, and Frameworks
 -----------------------------------
  * Backbone.js, Cesium.js, MarionetteJS, React.js, jQuery, RequireJS (_AMD _)
- * Lodash.js, Redux.js, Immutable.js (**note:** I love functional programming)
+ * Polymer (Web Components), Lodash.js, Redux.js, RxJS
+ * flow, jest, ESLint
+ * I pretty much am familiar with everything...not that I am a master of everything, but that I have at least tried everything and understand the purpose all items in the ecosystem.
+
+> I build web apps, desktop apps, servers, APIs, libraries, and CLI tools (see my [GitHub account](https://github.com/jhwohlgemuth) for examples)
+
 
 Database Technologies and DevOps
 --------------------------------
@@ -26,10 +34,12 @@ Database Technologies and DevOps
  * _(Continuous Integration)_ Jenkins, TeamCity, Travis, Codeship
  * _(Development and Deployment)_ Git, nvm, npm, Grunt, Gulp, Browserify, Babel, Webpack
 
+> I keep track of current trends and developments...it is kind of a hobby
+
 Software
 --------
  * Docker, Vagrant, Packer, VMWare, VirtualBox, Linux, RHEL
- * Almost any front-end IDE/editor (current favorite is Atom)
+ * Almost any front-end IDE/editor (current favorite is VS Code)
  * Atlassian JIRA, Stash (Bitbucket Server), Confluence
  * Adobe Fireworks, Adobe Illustrator, Adobe Flash
 
@@ -37,9 +47,9 @@ Web Application security
 ------------------------
  * MITRE CVE and CWE
  * So Now You Know (snyk)
- * Node Security Platform (nsp)
- * bithound.io
  * OpenSCAP
+
+ > **example**: I made an [ESLint config mapped to MITRE CWEs](https://github.com/omahajs/eslint-config-omaha-prime-grade/blob/master/RULES_FOR_SECURITY.md)
 
 SKILLS
 ======
