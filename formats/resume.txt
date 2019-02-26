@@ -9,6 +9,7 @@ Programming Languages
  HTML/XML/CSS
  * _(Familiar)_
  Rust,
+ WebAssembly (from Rust),
  Kotlin,
  Clojure,
  ClojureScript,
@@ -16,7 +17,7 @@ Programming Languages
  ML (Reason, OCaml, F#),
  Python
 
-> I believe understanding math and functional programming are essential in order to excel at writing sustainable software.
+> I believe understanding math and functional programming is essential for one to excel at writing sustainable software.
 
 JavaScript Tools, Libraries, and Frameworks
 -----------------------------------
