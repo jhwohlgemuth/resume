@@ -17,14 +17,14 @@ Programming Languages
  ML (Reason, OCaml, F#),
  Python
 
-> I believe understanding math and functional programming is essential for one to excel at writing sustainable software.
+> I believe understanding mathematics is essential for one to excel at writing sustainable software and mathematics is made manifest in functional programming concepts.
 
 JavaScript Tools, Libraries, and Frameworks
 -----------------------------------
  * Backbone.js, Cesium.js, MarionetteJS, React.js, jQuery, RequireJS (_AMD _)
  * Polymer (Web Components), Lodash.js, Redux.js, RxJS
- * flow, jest, ESLint
- * I pretty much am familiar with everything...not that I am a master of everything, but that I have at least tried everything and understand the purpose all items in the ecosystem.
+ * code quality (ESLint, flow, etc...)
+ * unit/integration/fuzz/acceptance testing (jest, AVA, mocha, jasmine, etc...)
 
 > I build web apps, desktop apps, servers, APIs, libraries, and CLI tools (see my [GitHub account](https://github.com/jhwohlgemuth) for examples)
 
@@ -35,7 +35,7 @@ Database Technologies and DevOps
  * _(Continuous Integration)_ Jenkins, TeamCity, Travis, Codeship
  * _(Development and Deployment)_ Git, nvm, npm, Grunt, Gulp, Browserify, Babel, Webpack
 
-> I keep track of current trends and developments...it is kind of a hobby
+> I follow track of current trends and developments...it is one of my hobbies :)
 
 Software
 --------
@@ -50,7 +50,7 @@ Web Application security
  * So Now You Know (snyk)
  * OpenSCAP
 
- > **example**: I made an [ESLint config mapped to MITRE CWEs](https://github.com/omahajs/eslint-config-omaha-prime-grade/blob/master/RULES_FOR_SECURITY.md)
+ > **ex**: I made an [ESLint config mapped to MITRE CWEs](https://github.com/omahajs/eslint-config-omaha-prime-grade/blob/master/RULES_FOR_SECURITY.md)
 
 SKILLS
 ======
