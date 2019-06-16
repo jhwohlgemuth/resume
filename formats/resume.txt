@@ -23,6 +23,7 @@ Tools, Libraries, and Frameworks
 --------------------------------
  * Backbone.js, Cesium.js, MarionetteJS, React.js, jQuery, RequireJS (_AMD _)
  * Web Components ([#usetheplatform](https://twitter.com/hashtag/usetheplatform?src=hash)), Lodash.js, Redux.js, RxJS
+ * Babel, Webpack, Rollup.js, Parcel.js, Browserify, [\@pika/web](https://www.pika.dev/blog/pika-web-a-future-without-webpack/)
  * code quality (ESLint, flow, etc...)
  * unit/integration/fuzz/acceptance testing (jest, AVA, mocha, jasmine, etc...)
 
@@ -33,7 +34,7 @@ Database Technologies and DevOps
 --------------------------------
  * _(Database Technologies)_ MongoDB, redis, CouchDB, MySQL
  * _(Continuous Integration)_ Jenkins, TeamCity, Travis, Codeship
- * _(Development and Deployment)_ Git, nvm, npm, Grunt, Gulp, Browserify, Babel, Webpack
+ * _(Development and Deployment)_ Git, nvm, npm, Grunt, Gulp, now, surge, heroku
 
 > I follow track of current trends and developments...it is [one of my hobbies](https://twitter.com/jhwohlgemuth) :)
 
@@ -79,7 +80,7 @@ CAREER TIMELINE
 ===============
 06/04 - Present, ***Exercise Planner & Readiness Coordinator***
 -----------------------------------------------------------
-_@[CJTFHOA](https://twitter.com/CJTFHOA)_
+_[\@CJTFHOA](https://twitter.com/CJTFHOA)_
 
  * Conduct planning and lead cross-functional teams to execute large scale exercises
  * Coordinate command readiness and ensure assessments are timely and accurate
@@ -88,20 +89,20 @@ _@[CJTFHOA](https://twitter.com/CJTFHOA)_
 
 11/15 - Present, ***Principal Software Engineer***
 --------------------------------------------------
-_@[BAESystemsInc](https://twitter.com/BAESystemsInc)_
+_[\@BAESystemsInc](https://twitter.com/BAESystemsInc)_
 
  * Developing and implementing front-end architecture and workflow for multi-million dollar application
  * Web technology expert, experienced mentor, and valuable trainer
 
 08/15 - 11/15, ***Senior Software Developer***
 ----------------------------------------------
-_@[Leidos](https://twitter.com/LeidosInc)_
+_[\@Leidos](https://twitter.com/LeidosInc)_
 
  * Performed agile development using popular front-end technologies such as: Ampersand.js, Reveal.js, and Cesium.js
 
 07/14 - 08/15, ***Senior Software Developer***
 ----------------------------------------------
-_@[BAESystemsInc](https://twitter.com/BAESystemsInc)_
+_[\@BAESystemsInc](https://twitter.com/BAESystemsInc)_
 
  * Senior developer for multi-million dollar modern web application.
  * Instrumental to implementing application infrastructure using MarionetteJS, HTML5, and Less.js
