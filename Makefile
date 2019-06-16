@@ -1,3 +1,5 @@
+default: convert copy open
+
 convert:
 	cd formats && sh ./convert.sh
 

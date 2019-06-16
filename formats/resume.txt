@@ -1,8 +1,8 @@
 ﻿KNOWLEDGE
 =========
 
-Programming Languages
----------------------
+Programming
+-----------
  * _(Experienced)_
  ECMAScript (JavaScript),
  Node.js,
@@ -14,19 +14,19 @@ Programming Languages
  Clojure,
  ClojureScript,
  Elm,
- ML (Reason, OCaml, F#),
- Python
+ ML (Reason, OCaml, F#)
+ * I used Python for my Masters thesis - [published in the journal, Complex Systems](https://www.complex-systems.com/abstracts/v23_i03_a01/)
 
-> I believe understanding mathematics is essential for one to excel at writing sustainable software and mathematics is made manifest in functional programming concepts.
+> I build web apps, desktop apps, servers, APIs, libraries, and CLI tools
 
-JavaScript Tools, Libraries, and Frameworks
------------------------------------
+Tools, Libraries, and Frameworks
+--------------------------------
  * Backbone.js, Cesium.js, MarionetteJS, React.js, jQuery, RequireJS (_AMD _)
- * Polymer (Web Components), Lodash.js, Redux.js, RxJS
+ * Web Components ([#usetheplatform](https://twitter.com/hashtag/usetheplatform?src=hash)), Lodash.js, Redux.js, RxJS
  * code quality (ESLint, flow, etc...)
  * unit/integration/fuzz/acceptance testing (jest, AVA, mocha, jasmine, etc...)
 
-> I build web apps, desktop apps, servers, APIs, libraries, and CLI tools (see my [GitHub account](https://github.com/jhwohlgemuth) for examples)
+> See my [GitHub account](https://github.com/jhwohlgemuth) for examples
 
 
 Database Technologies and DevOps
@@ -35,7 +35,7 @@ Database Technologies and DevOps
  * _(Continuous Integration)_ Jenkins, TeamCity, Travis, Codeship
  * _(Development and Deployment)_ Git, nvm, npm, Grunt, Gulp, Browserify, Babel, Webpack
 
-> I follow track of current trends and developments...it is one of my hobbies :)
+> I follow track of current trends and developments...it is [one of my hobbies](https://twitter.com/jhwohlgemuth) :)
 
 Software
 --------
@@ -44,56 +44,71 @@ Software
  * Atlassian JIRA, Stash (Bitbucket Server), Confluence
  * Adobe Fireworks, Adobe Illustrator, Adobe Flash
 
-Web Application security
-------------------------
+Security
+--------
  * MITRE CVE and CWE
  * So Now You Know (snyk)
  * OpenSCAP
 
- > **ex**: I made an [ESLint config mapped to MITRE CWEs](https://github.com/omahajs/eslint-config-omaha-prime-grade/blob/master/RULES_FOR_SECURITY.md)
+ > I always use [`npm audit` as a prestart task for Node.js servers](https://github.com/jhwohlgemuth/tomo-cli/blob/master/src/commands/create-server/index.js#L82)
 
-SKILLS
-======
+ > I made an [ESLint config mapped to MITRE CWEs](https://github.com/omahajs/eslint-config-omaha-prime-grade/blob/master/RULES_FOR_SECURITY.md)
 
-Application Design and Development
+SKILLS & EXPERIENCE
+===================
+
+Design / Development
 ----------------------------------
- * Designed and delivered presentation on automating front-end development using modern front-end tools such as node.js, Grunt, and Karma.  A functional project template that facilitates the immediate implementation of the ideas presented is available online on [GitHub](https://github.com/jhwohlgemuth/generator-techtonic).
+ * As a BAE Systems principal engineer, consulted on multiple projects across BAE Systems and mentored developers on a daily basis
+ * Created a [CLI tool to help create sustainable solutions with web technologies](https://github.com/jhwohlgemuth/tomo-cli). I maintain this project and leverage it to codify and share my knowledge in order to facilitate continued learning for me and others. 
+
+Training / Mentorship
+-----------------------
+ * As a principal engineer at BAE Systems, developed and delivered [numerous presentations on web technology](https://github.com/jhwohlgemuth?utf8=%E2%9C%93&tab=repositories&q=slides&type=source&language=)
+ * As a Command Training Team officer liaison, guided the planning and implementation of new training practices and procedures that included achieving 100% compliance with new Navy SAPR training guidance.
+ * Maintained 100% readiness as the branch Training Officer ensuring that personnel were always ready to meet mission objectives.
+ 
+ > Naturally, I use web technology to create my presentations - [Reveal.js](https://revealjs.com/#/) and [Spectacle.js](https://formidable.com/open-source/spectacle/)
 
 Engineering / General Management
 --------------------------------
  * As a division officer on a submarine, supervised the daily operations of a nuclear reactor and engine room at sea and in port, maintaining electrical power to vital systems throughout the submarine.
  * Led teams through complex technical evolutions, during maintenance and casualty situations, maximizing efficiency while maintaining a safe environment.
 
-Training
---------
- * As the Command Training Team officer liaison, guided the planning and implementation of new training practices and procedures that included achieving 100% compliance with new Navy SAPR training guidance.
- * Maintained 100% readiness as the branch Training Officer ensuring that personnel were always ready to meet mission objectives.
+CAREER TIMELINE
+===============
+06/04 - Present, ***Exercise Planner & Readiness Coordinator***
+-----------------------------------------------------------
+_@[CJTFHOA](https://twitter.com/CJTFHOA)_
 
-EXPERIENCE
-==========
-11/15 - Present, ***Senior Software Developer***
-------------------------------------------------
-_@BAE Systems _
+ * Conduct planning and lead cross-functional teams to execute large scale exercises
+ * Coordinate command readiness and ensure assessments are timely and accurate
+ * Develop and deliver command wide training on a weekly basis
+ * Knowledge Management subject matter expert
+
+11/15 - Present, ***Principal Software Engineer***
+--------------------------------------------------
+_@[BAESystemsInc](https://twitter.com/BAESystemsInc)_
 
  * Developing and implementing front-end architecture and workflow for multi-million dollar application
- * Subject matter expert and experienced mentor on all things front-end (JS/HTML/CSS)
+ * Web technology expert, experienced mentor, and valuable trainer
 
 08/15 - 11/15, ***Senior Software Developer***
-------------------------------------------------
-_@Leidos _
+----------------------------------------------
+_@[Leidos](https://twitter.com/LeidosInc)_
 
  * Performed agile development using popular front-end technologies such as: Ampersand.js, Reveal.js, and Cesium.js
 
 07/14 - 08/15, ***Senior Software Developer***
 ----------------------------------------------
-_@BAE Systems _
+_@[BAESystemsInc](https://twitter.com/BAESystemsInc)_
 
  * Senior developer for multi-million dollar modern web application.
  * Instrumental to implementing application infrastructure using MarionetteJS, HTML5, and Less.js
 
 07/10 - 7/14, ***Strategic Plans Officer / Security Manager***
 --------------------------------------------------------------
-_@USSTRATCOM Joint Functional Component Command, Global Strike_
+_USSTRATCOM Joint Functional Component Command, Global Strike_
 
  * Streamlined communication up chain of command and facilitated executive-level, biweekly planning meetings; improved planning process and enabled collaboration and senior leader strategic decision making.
  * Consulted with multiple groups in US Strategic Command; provided technical counsel on projects involving ***network analysis*** and ***operations research***; improved products and furthered approval/development process.
@@ -101,7 +116,7 @@ _@USSTRATCOM Joint Functional Component Command, Global Strike_
 
 05/06 – 07/10, ***Submarine Warfare Officer***
 ----------------------------------------------
-_@USS Louisiana (SSBN 743)_
+_USS Louisiana (SSBN 743)_
 
  * Led team to verify 100% of damage control gear prior to sub’s major Operational Reactor Safeguard Exam; ensured zero deficiencies and sub’s ability to combat any casualty, real or simulated, during patrols.
  * Led efforts to improve tracking and control of top secret material; drafted and executed aggressive plan that successfully fixed sub’s wayward security program; led to no security-related discrepancies during inspection.
@@ -127,6 +142,12 @@ CERTIFICATIONS
 
 * __2015__  Certified Information Systems Security Professional (CISSP)
 * __2015__  Professional in Human Resources (PHR)
+
+PUBLICATIONS & CITATIONS
+========================
+
+* [Small-World Properties of Facebook Group Networks](http://wpmedia.wolfram.com/uploads/sites/13/2018/02/23-3-1.pdf)
+* [Security and Privacy Management, Techniques, and Protocols (Advances in Information Security, Privacy, and Ethics) 1st Edition](https://smile.amazon.com/gp/product/1522555838/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
 
 OTHER
 =====
