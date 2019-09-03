@@ -33,17 +33,19 @@ Tools, Libraries, and Frameworks
 Database Technologies and DevOps
 --------------------------------
  * _(Database Technologies)_ MongoDB, redis, CouchDB, MySQL
- * _(Continuous Integration)_ Jenkins, TeamCity, Travis, Codeship
- * _(Development and Deployment)_ Git, nvm, npm, Grunt, Gulp, now, surge, heroku
+ * _(Continuous Integration)_ Jenkins, Travis, Codeship
+ * _(Development and Deployment)_ Git, nvm, npm, grunt, gulp, now, surge, heroku
 
 > I follow track of current trends and developments...it is [one of my hobbies](https://twitter.com/jhwohlgemuth) :)
 
 Software
 --------
- * Docker, Vagrant, Packer, VMWare, VirtualBox, Linux, RHEL
+ * Adobe XD, Adobe Illustrator (CS6), Adobe Photoshop (CS6)
+ * Docker, Vagrant, Packer, VMWare, VirtualBox, Linux, RHEL, WLS
  * Almost any front-end IDE/editor (current favorite is VS Code)
  * Atlassian JIRA, Stash (Bitbucket Server), Confluence
- * Adobe Fireworks, Adobe Illustrator, Adobe Flash
+
+ > My favorite oh-my-zsh theme is "agnoster"
 
 Security
 --------
