@@ -8,3 +8,6 @@ copy:
 
 open:
 	npx open-cli ./index.html
+
+check:
+	npx linkinator http://resume.jasonwohlgemuth.com
