@@ -77,6 +77,12 @@ Engineering / General Management
 --------------------------------
  * As a division officer on a submarine, supervised the daily operations of a nuclear reactor and engine room at sea and in port, maintaining electrical power to vital systems throughout the submarine.
  * Led teams through complex technical evolutions, during maintenance and casualty situations, maximizing efficiency while maintaining a safe environment.
+  - [Reveal.js](https://revealjs.com/#/) and [Spectacle.js](https://formidable.com/open-source/spectacle/)
+
+Mathematics / Operations Research / Network Science
+--------------------------------
+ * During my Masters studies, I studied Operations Research for over a year including the basics and a Python program to leverage genetic algorithms to solve a problem with no closed form solution.
+ * My Masters thesis was an original topic of my own conception and leveraged network analysis to analyze small world networks created from Facebook data. See [publications section](#publications-citations).
 
 CAREER TIMELINE
 ===============
