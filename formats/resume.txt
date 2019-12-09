@@ -77,7 +77,6 @@ Engineering / General Management
 --------------------------------
  * As a division officer on a submarine, supervised the daily operations of a nuclear reactor and engine room at sea and in port, maintaining electrical power to vital systems throughout the submarine.
  * Led teams through complex technical evolutions, during maintenance and casualty situations, maximizing efficiency while maintaining a safe environment.
-  - [Reveal.js](https://revealjs.com/#/) and [Spectacle.js](https://formidable.com/open-source/spectacle/)
 
 Mathematics / Operations Research / Network Science
 --------------------------------
@@ -165,6 +164,6 @@ OTHER
 =====
 
 * Cleared for Top Secret information and granted access to Sensitive Compartmented Information based on a Single Scope Background Investigation.
-* 2014 - Present Navy Selected Ready Reserve member
+* 2014 - Present Navy Selected Ready Reserve member (LCDR, O-4)
 * 2011 - 2013 Tutored local high school students in Geometry and Trigonometry
 * 2012 - 2013 Tutored online with tutor.com in Calculus and Algebra
