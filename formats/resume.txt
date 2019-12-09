@@ -60,13 +60,14 @@ Security
 SKILLS & EXPERIENCE
 ===================
 
-Design / Development
-----------------------------------
+Design / Development / Security
+-------------------------------
  * As a BAE Systems principal engineer, consulted on multiple projects across BAE Systems and mentored developers on a daily basis
  * Created a [CLI tool to help create sustainable solutions with web technologies](https://github.com/jhwohlgemuth/tomo-cli). I maintain this project and leverage it to codify and share my knowledge in order to facilitate continued learning for me and others. 
+ * Maintain security baseline by monitoring releases, reviewing changelogs, integrating version updates, submitting security impact analyses, and training co-workers on modern trends and technologies.
 
 Training / Mentorship
------------------------
+---------------------
  * As a principal engineer at BAE Systems, developed and delivered [numerous presentations on web technology](https://github.com/jhwohlgemuth?utf8=%E2%9C%93&tab=repositories&q=slides&type=source&language=)
  * As a Command Training Team officer liaison, guided the planning and implementation of new training practices and procedures that included achieving 100% compliance with new Navy SAPR training guidance.
  * Maintained 100% readiness as the branch Training Officer ensuring that personnel were always ready to meet mission objectives.
@@ -79,13 +80,21 @@ Engineering / General Management
  * Led teams through complex technical evolutions, during maintenance and casualty situations, maximizing efficiency while maintaining a safe environment.
 
 Mathematics / Operations Research / Network Science
---------------------------------
+---------------------------------------------------
  * During my Masters studies, I studied Operations Research for over a year including the basics and a Python program to leverage genetic algorithms to solve a problem with no closed form solution.
  * My Masters thesis was an original topic of my own conception and leveraged network analysis to analyze small world networks created from Facebook data. See [publications section](#publications-citations).
 
 CAREER TIMELINE
 ===============
-06/04 - Present, ***Exercise Planner & Readiness Coordinator***
+11/15 - Present, ***Principal Software Engineer***
+--------------------------------------------------
+_[\@BAESystemsInc](https://twitter.com/BAESystemsInc)_
+
+ * Developing and implementing front-end architecture and workflow for multi-million dollar application
+ * Web technology expert, experienced mentor, and valuable trainer
+ * Lead front-end developer focused on quality and sustainability
+
+06/18 - 07/19, ***Exercise Planner & Readiness Coordinator***
 -----------------------------------------------------------
 _[\@CJTFHOA](https://twitter.com/CJTFHOA)_
 
@@ -93,13 +102,6 @@ _[\@CJTFHOA](https://twitter.com/CJTFHOA)_
  * Coordinate command readiness and ensure assessments are timely and accurate
  * Develop and deliver command wide training on a weekly basis
  * Knowledge Management subject matter expert
-
-11/15 - Present, ***Principal Software Engineer***
---------------------------------------------------
-_[\@BAESystemsInc](https://twitter.com/BAESystemsInc)_
-
- * Developing and implementing front-end architecture and workflow for multi-million dollar application
- * Web technology expert, experienced mentor, and valuable trainer
 
 08/15 - 11/15, ***Senior Software Developer***
 ----------------------------------------------
