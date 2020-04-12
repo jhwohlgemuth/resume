@@ -8,20 +8,21 @@ Programming
  Node.js,
  HTML/XML/CSS
  * _(Familiar)_
+ F#
+ ReasonML
  Rust,
  WebAssembly (from Rust),
  Kotlin,
  Clojure,
  ClojureScript,
- Elm,
- ML (Reason, OCaml, F#)
+ Elm
  * I used Python for my Masters thesis - [published in the journal, Complex Systems](https://www.complex-systems.com/abstracts/v23_i03_a01/)
 
 > I build web apps, desktop apps, servers, APIs, libraries, and CLI tools
 
 Tools, Libraries, and Frameworks
 --------------------------------
- * Backbone.js, Cesium.js, MarionetteJS, React.js, jQuery, RequireJS (_AMD _)
+ * React.js CesiumJS, Backbone.js, MarionetteJS, jQuery, RequireJS (_AMD _)
  * Web Components ([#usetheplatform](https://twitter.com/hashtag/usetheplatform?src=hash)), Lodash.js, Redux.js, RxJS
  * Babel, Webpack, Rollup.js, Parcel.js, Browserify, [\@pika/web](https://www.pika.dev/blog/pika-web-a-future-without-webpack/)
  * code quality (ESLint, flow, etc...)
@@ -60,6 +61,11 @@ Security
 SKILLS & EXPERIENCE
 ===================
 
+Mathematics / Operations Research / Network Science
+---------------------------------------------------
+ * During my Masters studies, I studied Operations Research for over a year including the basics and a Python program to leverage genetic algorithms to solve a problem with no closed form solution.
+ * My Masters thesis was an original topic of my own conception and leveraged network analysis to analyze small world networks created from Facebook data. See [publications section](#publications-citations).
+
 Design / Development / Security
 -------------------------------
  * As a BAE Systems principal engineer, consulted on multiple projects across BAE Systems and mentored developers on a daily basis
@@ -79,20 +85,21 @@ Engineering / General Management
  * As a division officer on a submarine, supervised the daily operations of a nuclear reactor and engine room at sea and in port, maintaining electrical power to vital systems throughout the submarine.
  * Led teams through complex technical evolutions, during maintenance and casualty situations, maximizing efficiency while maintaining a safe environment.
 
-Mathematics / Operations Research / Network Science
----------------------------------------------------
- * During my Masters studies, I studied Operations Research for over a year including the basics and a Python program to leverage genetic algorithms to solve a problem with no closed form solution.
- * My Masters thesis was an original topic of my own conception and leveraged network analysis to analyze small world networks created from Facebook data. See [publications section](#publications-citations).
-
 CAREER TIMELINE
 ===============
-11/15 - Present, ***Principal Software Engineer***
+03/20 - Present, ***Operations Research Analyst***
+-------------------------------------------------
+_[\@US_Stratcom](https://twitter.com/US_Stratcom)_
+
+* Utilize scientific inquiry in the independent development of mathematical models and computer programs to evaluate and predict the ability to support assigned projects, studies, or problems.
+
+11/15 - 03/20, ***Principal Software Engineer***
 --------------------------------------------------
 _[\@BAESystemsInc](https://twitter.com/BAESystemsInc)_
 
- * Developing and implementing front-end architecture and workflow for multi-million dollar application
- * Web technology expert, experienced mentor, and valuable trainer
- * Lead front-end developer focused on quality and sustainability
+ * Lead developer focused on quality and sustainability
+ * Developed and implemented front-end architecture and workflow for multi-million dollar application
+ * Served as web technology expert, experienced mentor, and valuable trainer
 
 06/18 - 07/19, ***Exercise Planner & Readiness Coordinator***
 -----------------------------------------------------------
@@ -116,7 +123,7 @@ _[\@BAESystemsInc](https://twitter.com/BAESystemsInc)_
  * Senior developer for multi-million dollar modern web application.
  * Instrumental to implementing application infrastructure using MarionetteJS, HTML5, and Less.js
 
-07/10 - 7/14, ***Strategic Plans Officer / Security Manager***
+07/10 - 07/14, ***Strategic Plans Officer / Security Manager***
 --------------------------------------------------------------
 _USSTRATCOM Joint Functional Component Command, Global Strike_
 
