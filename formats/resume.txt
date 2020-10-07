@@ -9,7 +9,7 @@ Programming
  HTML/XML/CSS
  * _(Familiar)_
  F#
- ReasonML
+ ReasonML,
  Rust,
  WebAssembly (from Rust),
  Kotlin,
