@@ -128,7 +128,7 @@ _[\@BAESystemsInc](https://twitter.com/BAESystemsInc)_
 _USSTRATCOM Joint Functional Component Command, Global Strike_
 
  * Streamlined communication up chain of command and facilitated executive-level, biweekly planning meetings; improved planning process and enabled collaboration and senior leader strategic decision making.
- * Worked with and around multiple applications on a regular basis such as Global Strike Planning Aid (GSPA, now named ACME), Joint Targetting Toolbox (JTT), Digital Imagery Exploitation Engine (DIEE), SPA, and IMEA
+ * Worked with and around multiple applications on a regular basis such as Global Strike Planning Aid (GSPA, now named ACME), Joint Targeting Toolbox (JTT), Digital Imagery Exploitation Engine (DIEE), SPA, and IMEA
  * Qualified as a Collateral Damage Estimate (CDE) analyst
  * Consulted with multiple groups in US Strategic Command; provided technical counsel on projects involving ***network analysis*** and ***operations research***; improved products and furthered approval/development process.
  * Modernized websites, maintained collaboration tools, created new tools for mission accomplishment, and maintained overall situational picture as division knowledge manager; improved productivity and efficiency.
