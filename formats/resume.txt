@@ -4,15 +4,18 @@
 Programming
 -----------
  * _(Experienced)_
+ PowerShell,
  ECMAScript (JavaScript),
  Node.js,
  HTML/XML/CSS
  * _(Familiar)_
- F#
+ C#,
+ F#,
  ReasonML,
  Rust,
- WebAssembly (from Rust),
+ WebAssembly,
  Kotlin,
+ Python,
  Clojure,
  ClojureScript,
  Elm
@@ -24,11 +27,11 @@ Tools, Libraries, and Frameworks
 --------------------------------
  * React.js CesiumJS, Backbone.js, MarionetteJS, jQuery, RequireJS (_AMD _)
  * Web Components ([#usetheplatform](https://twitter.com/hashtag/usetheplatform?src=hash)), Lodash.js, Redux.js, RxJS
- * Babel, Webpack, Rollup.js, Parcel.js, Browserify, [\@pika/web](https://www.pika.dev/blog/pika-web-a-future-without-webpack/)
- * code quality (ESLint, flow, etc...)
- * unit/integration/fuzz/acceptance testing (jest, AVA, mocha, jasmine, etc...)
+ * Babel, Webpack, Rollup.js, Parcel.js, Browserify, [snowpack](https://www.pika.dev/blog/pika-web-a-future-without-webpack/)
+ * code quality (PSScriptAnalyzer, Hadolint, Shellcheck, ESLint, flow, etc...)
+ * unit/integration/fuzz/acceptance testing (Pester, jest, AVA, mocha, jasmine, etc...)
 
-> See my [GitHub account](https://github.com/jhwohlgemuth) for examples
+> See my [GitHub account](https://github.com/jhwohlgemuth) for examples - like my PowerShell module, [Prelude](https://github.com/jhwohlgemuth/pwsh-prelude)
 
 
 Database Technologies and DevOps
@@ -50,13 +53,13 @@ Software
 
 Security
 --------
- * MITRE CVE and CWE
- * So Now You Know (snyk)
- * OpenSCAP
+ * I know about MITRE CVEs and CWE (I even know that Microsoft is the CVE numbering authority for GitHub)
+ * I can use OpenSCAP to harden an OS installation
+ * I always use [`npm audit` as a prestart task for Node.js servers](https://github.com/jhwohlgemuth/tomo-cli/blob/master/src/commands/create-server/index.js#L82)
+ * I also lint my Dockerfiles
+ * I made an [ESLint config mapped to MITRE CWEs](https://github.com/omahajs/eslint-config-omaha-prime-grade/blob/master/RULES_FOR_SECURITY.md)
 
- > I always use [`npm audit` as a prestart task for Node.js servers](https://github.com/jhwohlgemuth/tomo-cli/blob/master/src/commands/create-server/index.js#L82)
-
- > I made an [ESLint config mapped to MITRE CWEs](https://github.com/omahajs/eslint-config-omaha-prime-grade/blob/master/RULES_FOR_SECURITY.md)
+ > I completed the "Penetration Testing with Kali Linux" Course. Although I did not pass the 24 hour exam, I learned a lot and may one day try again...
 
 SKILLS & EXPERIENCE
 ===================
@@ -159,7 +162,6 @@ EDUCATION
 CERTIFICATIONS
 ==============
 
-* **????** Offensive Security Certified Professional (OSCP)
 * __2015__  Certified Information Systems Security Professional (CISSP)
 * __2015__  Professional in Human Resources (PHR)
 
