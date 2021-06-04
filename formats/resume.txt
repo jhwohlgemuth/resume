@@ -16,12 +16,12 @@ Programming
  WebAssembly,
  Kotlin,
  Python,
+ R,
  Clojure,
  ClojureScript,
  Elm
- * I used Python for my Masters thesis - [published in the journal, Complex Systems](https://www.complex-systems.com/abstracts/v23_i03_a01/)
 
-> I build web apps, desktop apps, servers, APIs, libraries, and CLI tools
+> I used Python for my Masters thesis - [published in the journal, Complex Systems](https://www.complex-systems.com/abstracts/v23_i03_a01/)
 
 Tools, Libraries, and Frameworks
 --------------------------------
@@ -31,7 +31,7 @@ Tools, Libraries, and Frameworks
  * code quality (PSScriptAnalyzer, Hadolint, Shellcheck, ESLint, flow, etc...)
  * unit/integration/fuzz/acceptance testing (Pester, jest, AVA, mocha, jasmine, etc...)
 
-> See my [GitHub account](https://github.com/jhwohlgemuth) for examples - like my PowerShell module, [Prelude](https://github.com/jhwohlgemuth/pwsh-prelude)
+> Visit my [GitHub account](https://github.com/jhwohlgemuth) for examples - like my PowerShell module, [Prelude](https://github.com/jhwohlgemuth/pwsh-prelude)
 
 
 Database Technologies and DevOps
@@ -40,7 +40,7 @@ Database Technologies and DevOps
  * _(Continuous Integration)_ Jenkins, Travis, Codeship
  * _(Development and Deployment)_ Git, nvm, npm, grunt, gulp, now, surge, heroku
 
-> I follow track of current trends and developments...it is [one of my hobbies](https://twitter.com/jhwohlgemuth) :)
+> I follow and track current trends and developments...it is [one of my hobbies](https://twitter.com/jhwohlgemuth) 🤓
 
 Software
 --------
@@ -158,6 +158,7 @@ PROFESSIONAL AWARDS
 EDUCATION
 =========
 
+* __2021__  Mini MBA, University of Nebraska at Omaha (as USSTRATCOM Strategic Fellow)
 * __2012__  Master of Arts, Mathematics, University of Nebraska at Omaha
 * __2006__  Bachelor of Arts, Mathematics, University of San Diego
 * __2006__  Bachelor of Arts, Physics, University of San Diego
@@ -174,10 +175,22 @@ PUBLICATIONS & CITATIONS
 * [Small-World Properties of Facebook Group Networks](http://wpmedia.wolfram.com/uploads/sites/13/2018/02/23-3-1.pdf)
 * [Security and Privacy Management, Techniques, and Protocols (Advances in Information Security, Privacy, and Ethics) 1st Edition](https://smile.amazon.com/gp/product/1522555838/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
 
+PRESENTATIONS
+=============
+
+* [PowerShell is Awesome](https://powershell.surge.sh/)
+* [Web Apps Must be Sustainable - How to leverage common patterns to enable flexibility](http://sustainable.surge.sh/)
+* [Wat? The Purpose and Promise of WebAssembly](http://wat-brown-bag.surge.sh/)
+* [The Four Labyrinths of JavaScript](http://www.jasonwohlgemuth.com/slides-javascript-labyrinths/#/title)
+* [Fun with Generator Functions](https://generators.surge.sh/)
+* [Hooked on Hooks](http://hooked-on-hooks.surge.sh/)
+
+> I have more presentations on [GitHub](https://github.com/?q=slides)
+
 OTHER
 =====
 
 * Cleared for Top Secret information and granted access to Sensitive Compartmented Information based on a Single Scope Background Investigation.
-* 2014 - Present Navy Selected Ready Reserve member (LCDR, O-4)
+* 2014 - Present Navy Selected Ready Reserve member (CDR, O-5)
 * 2011 - 2013 Tutored local high school students in Geometry and Trigonometry
 * 2012 - 2013 Tutored online with tutor.com in Calculus and Algebra
