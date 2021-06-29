@@ -67,14 +67,14 @@ SKILLS & EXPERIENCE
 Mathematics / Operations Research / Network Science
 ---------------------------------------------------
  * During my Masters studies, I studied Operations Research for over a year including the basics and a Python program to leverage genetic algorithms to solve a problem with no closed form solution.
- * My Masters thesis was an original topic of my own conception and leveraged network analysis to analyze small world networks created from Facebook data. See [publications section](#publications-citations).
+ * My Masters thesis was an original topic of my own conception and **leveraged network analysis** to analyze small world networks created from Facebook data. See [publications section](#publications-citations).
 
 Design / Development / Security
 -------------------------------
  * At USSTRATCOM, designed a visual grammar in order to create detailed process documentation. The documentation is intended to help **architect sustainable solutions** in an effort to improve efficiency and mission readiness.
  * As a BAE Systems principal engineer, consulted on multiple projects across BAE Systems and mentored developers on a daily basis
  * Created a [CLI tool to help create sustainable solutions with web technologies](https://github.com/jhwohlgemuth/tomo-cli). I maintain this project and leverage it to codify and share my knowledge in order to facilitate continued learning for me and others. 
- * Maintain security baseline by monitoring releases, reviewing changelogs, integrating version updates, submitting security impact analyses, and training co-workers on modern trends and technologies.
+ * **Maintain security baseline** by monitoring releases, reviewing changelogs, integrating version updates, submitting security impact analyses, and training co-workers on modern trends and technologies.
 
 Training / Mentorship
 ---------------------
@@ -82,7 +82,7 @@ Training / Mentorship
  * As a Command Training Team officer liaison, guided the planning and implementation of new training practices and procedures that included achieving 100% compliance with new Navy SAPR training guidance.
  * Maintained 100% readiness as the branch Training Officer ensuring that personnel were always ready to meet mission objectives.
  
- > Naturally, I use web technology to create my presentations - [Reveal.js](https://revealjs.com/#/) and [Spectacle.js](https://formidable.com/open-source/spectacle/)
+ > Naturally, I use web technology to create my presentations (ex: [Reveal.js](https://revealjs.com/#/) and [Spectacle.js](https://formidable.com/open-source/spectacle/))
 
 Engineering / General Management
 --------------------------------
@@ -92,12 +92,11 @@ Engineering / General Management
 CAREER TIMELINE
 ===============
 
-> I am also a Commander (select) in the US Navy Reserves. My "official" Navy biography can be found [here](https://github.com/jhwohlgemuth/navy-biography).
-
 03/20 - Present, ***Operations Research Analyst***
 -------------------------------------------------
 _[\@US_Stratcom](https://twitter.com/US_Stratcom)_
 
+* Data scientist tasked with developing better understanding of operations with the goal improving mission effectiveness and efficiency.
 * Utilize scientific inquiry in the independent development of mathematical models and computer programs to evaluate and predict the ability to support assigned projects, studies, or problems.
 
 11/15 - 03/20, ***Principal Software Engineer***
@@ -192,6 +191,9 @@ OTHER
 =====
 
 * Cleared for Top Secret information and granted access to Sensitive Compartmented Information based on a Single Scope Background Investigation.
-* 2014 - Present Navy Selected Ready Reserve member (CDR, O-5)
+* 2014 - Present Navy Selected Ready Reserve member (Commander, O-5)
+
+> You can read my "official" Navy biography on [GitHub](https://github.com/jhwohlgemuth/navy-biography).
+
 * 2011 - 2013 Tutored local high school students in Geometry and Trigonometry
 * 2012 - 2013 Tutored online with tutor.com in Calculus and Algebra
