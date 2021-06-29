@@ -40,7 +40,7 @@ Database Technologies and DevOps
  * _(Continuous Integration)_ Jenkins, Travis, Codeship
  * _(Development and Deployment)_ Git, nvm, npm, grunt, gulp, now, surge, heroku
 
-> I follow and track current trends and developments...it is [one of my hobbies](https://twitter.com/jhwohlgemuth) 🤓
+> I follow and track current trends and developments...it is [one of my hobbies](https://twitter.com/jhwohlgemuth) :)
 
 Software
 --------
@@ -71,6 +71,7 @@ Mathematics / Operations Research / Network Science
 
 Design / Development / Security
 -------------------------------
+ * At USSTRATCOM, designed a visual grammar in order to create detailed process documentation. The documentation is intended to help **architect sustainable solutions** in an effort to improve efficiency and mission readiness.
  * As a BAE Systems principal engineer, consulted on multiple projects across BAE Systems and mentored developers on a daily basis
  * Created a [CLI tool to help create sustainable solutions with web technologies](https://github.com/jhwohlgemuth/tomo-cli). I maintain this project and leverage it to codify and share my knowledge in order to facilitate continued learning for me and others. 
  * Maintain security baseline by monitoring releases, reviewing changelogs, integrating version updates, submitting security impact analyses, and training co-workers on modern trends and technologies.
