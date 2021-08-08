@@ -71,7 +71,7 @@ Mathematics / Operations Research / Network Science
 
 Design / Development / Security
 -------------------------------
- * At USSTRATCOM, designed a visual grammar in order to create detailed process documentation. The documentation is intended to help **architect sustainable solutions** in an effort to improve efficiency and mission readiness.
+ * At USSTRATCOM, designed a visual grammar in order to create detailed process documentation. The documentation is intended to help **architect sustainable solutions** in an effort to improve efficiency and mission readiness. Efforts directly contributed to **data modernization** of division.
  * As a BAE Systems principal engineer, consulted on multiple projects across BAE Systems and mentored developers on a daily basis
  * Created a [CLI tool to help create sustainable solutions with web technologies](https://github.com/jhwohlgemuth/tomo-cli). I maintain this project and leverage it to codify and share my knowledge in order to facilitate continued learning for me and others. 
  * **Maintain security baseline** by monitoring releases, reviewing changelogs, integrating version updates, submitting security impact analyses, and training co-workers on modern trends and technologies.
@@ -106,6 +106,7 @@ _[\@BAESystemsInc](https://twitter.com/BAESystemsInc)_
  * Lead developer focused on quality and sustainability
  * Developed and implemented front-end architecture and workflow for multi-million dollar application
  * Served as web technology expert, experienced mentor, and valuable trainer
+ * Leveraged Agile practices such as scrums, sprints, extreme programming, and retrospectives.
 
 06/18 - 07/19, ***Exercise Planner & Readiness Coordinator***
 -----------------------------------------------------------
