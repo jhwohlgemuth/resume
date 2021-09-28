@@ -105,7 +105,7 @@ _[\@US_Stratcom](https://twitter.com/US_Stratcom)_
 --------------------------------------------------
 _[\@BAESystemsInc](https://twitter.com/BAESystemsInc)_
 
- * Lead developer focused on quality and sustainability
+ * Lead developer focused on quality and sustainability with experience configuring and using various continuous integration technologies
  * Developed and implemented front-end architecture and workflow for multi-million dollar application
  * Served as web technology expert, experienced mentor, and valuable trainer
  * Leveraged Agile practices such as scrums, sprints, extreme programming, and retrospectives.
