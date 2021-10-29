@@ -22,15 +22,15 @@ Programming
  Elm,
  R
 
-> I used Python for my Masters thesis - [published in the journal, Complex Systems](https://www.complex-systems.com/abstracts/v23_i03_a01/)
+> I used Python for my Master's thesis - [published in the journal, Complex Systems](https://www.complex-systems.com/abstracts/v23_i03_a01/)
 
 SKILLS & EXPERIENCE
 ===================
 
 Mathematics, Operations Research, and Data Science
 --------------------------------------------------
- * During my Masters studies, I studied Operations Research for over a year including the basics and a Python program to leverage genetic algorithms to solve a problem with no closed form solution.
- * My Masters thesis was an original topic of my own conception and **leveraged network analysis** to analyze small world networks created from Facebook data. See [publications section](#publications-citations).
+ * During my Master's studies, I studied Operations Research for over a year including the basics and a Python program to leverage genetic algorithms to solve a problem with no closed form solution.
+ * My Master's thesis was an original topic of my own conception and **leveraged network analysis** to analyze small world networks created from Facebook data. See [publications section](#publications-citations).
  * As a developer, I have years of experience working with geospatial visualization technology.  I am a [CesiumGS/cesium contributor](https://github.com/CesiumGS/cesium/blob/main/CONTRIBUTORS.md).
 
 Design & DevSecOps
