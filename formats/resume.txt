@@ -165,7 +165,7 @@ OTHER
 * 2019 - Completed OSCP Penetration with Kali course.  I did not pass the 24hr OSCP exam, but I learned a lot in the process.
 * 2014 - Present Navy Selected Ready Reserve member (Commander, O-5)
 
-> You can read my "official" Navy biography on [GitHub](https://github.com/jhwohlgemuth/navy-biography).
+> You can read my Navy biography on [GitHub](https://github.com/jhwohlgemuth/navy-biography).
 
 * 2012 - 2013 Tutored online with tutor.com in Calculus and Algebra
 * 2011 - 2013 Tutored local high school students in Geometry and Trigonometry
