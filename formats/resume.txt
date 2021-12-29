@@ -22,7 +22,7 @@ Programming
  Elm,
  R
 
-> I used Python for my Master's thesis - [published in the journal, Complex Systems](https://www.complex-systems.com/abstracts/v23_i03_a01/)
+> I used Python for my Master's thesis — [published in the journal, Complex Systems](https://www.complex-systems.com/abstracts/v23_i03_a01/)
 
 SKILLS & EXPERIENCE
 ===================
@@ -31,7 +31,7 @@ Mathematics, Operations Research, & Data Science
 ------------------------------------------------
  * During my Master's studies, I studied Operations Research for over a year including the basics and a Python program to leverage genetic algorithms to solve a problem with no closed form solution.
  * My Master's thesis was an original topic of my own conception and **leveraged network analysis** to analyze small world networks created from Facebook data. See [publications section](#publications-citations).
- * As a developer, I have years of experience working with geospatial visualization technology.  I am a [CesiumGS/cesium contributor](https://github.com/CesiumGS/cesium/blob/main/CONTRIBUTORS.md).
+ * As a developer, I have years of experience working with geospatial visualization technology. I am a [CesiumGS/cesium contributor](https://github.com/CesiumGS/cesium/blob/main/CONTRIBUTORS.md).
 
 Design, DevSecOps, & Robotic Process Automation (RPA)
 -----------------------------------------------------
@@ -39,10 +39,10 @@ Design, DevSecOps, & Robotic Process Automation (RPA)
  * At USSTRATCOM, designed a visual grammar in order to create detailed process documentation. The documentation is intended to help **architect sustainable solutions** in an effort to improve efficiency and mission readiness. Efforts directly contributed to **data modernization** of division.
  * As a BAE Systems principal engineer, consulted on multiple projects across BAE Systems and mentored developers on a daily basis
  * Created a [CLI tool to help create sustainable solutions with web technologies](https://github.com/jhwohlgemuth/tomo-cli). I maintain this project and leverage it to codify and share my knowledge in order to facilitate continued learning for me and others. 
- * **Maintain security baseline** by monitoring releases, reviewing changelogs, integrating version updates, submitting security impact analyses, and training co-workers on modern trends and technologies.
+ * **Maintain security baseline** by monitoring releases, reviewing change logs, integrating version updates, submitting security impact reports, and training co-workers on modern trends and technologies.
  * I regularly leverage software and services to implement RPA solutions for myriad task types like writing code and creating data visualizations.
 
-> Visit my [GitHub account](https://github.com/jhwohlgemuth) for examples of my coding ability - like my PowerShell module, [Prelude](https://github.com/jhwohlgemuth/pwsh-prelude)
+> Visit my [GitHub account](https://github.com/jhwohlgemuth) for examples of my coding ability — like my PowerShell module, [Prelude](https://github.com/jhwohlgemuth/pwsh-prelude)
 
 Training & Mentorship
 ---------------------
@@ -55,12 +55,12 @@ Training & Mentorship
 Engineering & General Management
 --------------------------------
  * As a division officer on a submarine, supervised the daily operations of a nuclear reactor and engine room at sea and in port, maintaining electrical power to vital systems throughout the submarine.
- * Led teams through complex technical evolutions, during maintenance and casualty situations, maximizing efficiency while maintaining a safe environment.
+ * Led teams through complex technical procedures, during maintenance and casualty situations, maximizing efficiency while maintaining a safe environment.
 
 CAREER TIMELINE
 ===============
 
-03/20 - Present, ***Operations Research Analyst***
+03/20 – Present, ***Operations Research Analyst***
 -------------------------------------------------
 _[\@US_Stratcom](https://twitter.com/US_Stratcom)_
 
@@ -70,7 +70,7 @@ _[\@US_Stratcom](https://twitter.com/US_Stratcom)_
 * Advised leadership on emergent technologies (such as AI/ML) and methodologies.
 * Utilized scientific inquiry in the independent development of mathematical models and computer programs to evaluate and predict the ability to support assigned projects, studies, or problems.
 
-11/15 - 03/20, ***Principal Software Engineer***
+11/15 – 03/20, ***Principal Software Engineer***
 --------------------------------------------------
 _[\@BAESystemsInc](https://twitter.com/BAESystemsInc)_
 
@@ -79,7 +79,7 @@ _[\@BAESystemsInc](https://twitter.com/BAESystemsInc)_
  * Served as web technology expert, experienced mentor, and valuable trainer
  * Leveraged Agile practices such as scrums, sprints, extreme programming, and retrospectives.
 
-06/18 - 07/19, ***Exercise Planner & Readiness Coordinator***
+06/18 – 07/19, ***Exercise Planner & Readiness Coordinator***
 -----------------------------------------------------------
 _[\@CJTFHOA](https://twitter.com/CJTFHOA)_
 
@@ -88,24 +88,24 @@ _[\@CJTFHOA](https://twitter.com/CJTFHOA)_
  * Develop and deliver command wide training on a weekly basis
  * Knowledge Management subject matter expert
 
-08/15 - 11/15, ***Senior Software Developer***
+08/15 – 11/15, ***Senior Software Developer***
 ----------------------------------------------
 _[\@Leidos](https://twitter.com/LeidosInc)_
 
  * Performed agile development using popular front-end technologies such as: Ampersand.js, Reveal.js, and Cesium.js
 
-07/14 - 08/15, ***Senior Software Developer***
+07/14 – 08/15, ***Senior Software Developer***
 ----------------------------------------------
 _[\@BAESystemsInc](https://twitter.com/BAESystemsInc)_
 
  * Senior developer for multi-million dollar modern web application.
  * Instrumental to implementing application infrastructure using MarionetteJS, HTML5, and Less.js
 
-07/10 - 07/14, ***Strategic Plans Officer / Security Manager***
+07/10 – 07/14, ***Strategic Plans Officer / Security Manager***
 --------------------------------------------------------------
 _USSTRATCOM Joint Functional Component Command, Global Strike_
 
- * Streamlined communication up chain of command and facilitated executive-level, biweekly planning meetings; improved planning process and enabled collaboration and senior leader strategic decision making.
+ * Streamlined communication up chain of command and facilitated executive-level, biweekly planning meetings; improved planning process and enabled collaboration and senior leader strategic decision-making.
  * Worked with and around multiple applications on a regular basis such as Global Strike Planning Aid (GSPA, now named ACME), Joint Targeting Toolbox (JTT), Digital Imagery Exploitation Engine (DIEE), SPA, and IMEA
  * Qualified as a Collateral Damage Estimate (CDE) analyst
  * Consulted with multiple groups in US Strategic Command; provided technical counsel on projects involving ***network analysis*** and ***operations research***; improved products and furthered approval/development process.
@@ -152,7 +152,7 @@ PRESENTATIONS
 =============
 
 * [PowerShell is Awesome](https://powershell.surge.sh/)
-* [Web Apps Must be Sustainable - How to leverage common patterns to enable flexibility](http://sustainable.surge.sh/)
+* [Web Apps Must be Sustainable — How to leverage common patterns to enable flexibility](http://sustainable.surge.sh/)
 * [Wat? The Purpose and Promise of WebAssembly](http://wat-brown-bag.surge.sh/)
 * [The Four Labyrinths of JavaScript](http://www.jasonwohlgemuth.com/slides-javascript-labyrinths/#/title)
 * [Fun with Generator Functions](https://generators.surge.sh/)
@@ -164,10 +164,10 @@ OTHER
 =====
 
 * Cleared for Top Secret information and granted access to Sensitive Compartmented Information based on a Single Scope Background Investigation.
-* 2019 - Completed OSCP Penetration with Kali course.  I did not pass the 24hr OSCP exam, but I learned a lot in the process.
-* 2014 - Present Navy Selected Ready Reserve member (Commander, O-5)
+* 2019 — Completed OSCP Penetration with Kali course. I did not pass the 24hr OSCP exam, but I learned a lot in the process.
+* 2014 — Present Navy Selected Ready Reserve member (Commander, O-5)
 
 > You can read my Navy biography on [GitHub](https://github.com/jhwohlgemuth/navy-biography).
 
-* 2012 - 2013 Tutored online with tutor.com in Calculus and Algebra
-* 2011 - 2013 Tutored local high school students in Geometry and Trigonometry
+* 2012 – 2013 Tutored online with tutor.com in Calculus and Algebra
+* 2011 – 2013 Tutored local high school students in Geometry and Trigonometry
