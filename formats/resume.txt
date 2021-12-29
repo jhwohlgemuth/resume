@@ -27,19 +27,20 @@ Programming
 SKILLS & EXPERIENCE
 ===================
 
-Mathematics, Operations Research, and Data Science
---------------------------------------------------
+Mathematics, Operations Research, & Data Science
+------------------------------------------------
  * During my Master's studies, I studied Operations Research for over a year including the basics and a Python program to leverage genetic algorithms to solve a problem with no closed form solution.
  * My Master's thesis was an original topic of my own conception and **leveraged network analysis** to analyze small world networks created from Facebook data. See [publications section](#publications-citations).
  * As a developer, I have years of experience working with geospatial visualization technology.  I am a [CesiumGS/cesium contributor](https://github.com/CesiumGS/cesium/blob/main/CONTRIBUTORS.md).
 
-Design & DevSecOps
-------------------
+Design, DevSecOps, & Robotic Process Automation (RPA)
+-----------------------------------------------------
  * Team lead well versed in Agile methodologies and experienced with developing and deploying software via an iterative process focused on speed and [sustainability](http://sustainable.surge.sh/).
  * At USSTRATCOM, designed a visual grammar in order to create detailed process documentation. The documentation is intended to help **architect sustainable solutions** in an effort to improve efficiency and mission readiness. Efforts directly contributed to **data modernization** of division.
  * As a BAE Systems principal engineer, consulted on multiple projects across BAE Systems and mentored developers on a daily basis
  * Created a [CLI tool to help create sustainable solutions with web technologies](https://github.com/jhwohlgemuth/tomo-cli). I maintain this project and leverage it to codify and share my knowledge in order to facilitate continued learning for me and others. 
  * **Maintain security baseline** by monitoring releases, reviewing changelogs, integrating version updates, submitting security impact analyses, and training co-workers on modern trends and technologies.
+ * I regularly leverage software and services to implement RPA solutions for myriad task types like writing code and creating data visualizations.
 
 > Visit my [GitHub account](https://github.com/jhwohlgemuth) for examples of my coding ability - like my PowerShell module, [Prelude](https://github.com/jhwohlgemuth/pwsh-prelude)
 
