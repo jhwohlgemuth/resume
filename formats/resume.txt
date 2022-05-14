@@ -5,18 +5,18 @@ Programming
 -----------
  * _(Experienced)_
  PowerShell,
- ECMAScript (JavaScript),
- Node.js,
- HTML/XML/CSS,
+ Python,
  C#,
  F#,
- Python
+ ECMAScript (JavaScript),
+ Node.js,
+ HTML/XML/CSS
  * _(Familiar)_
  Julia,
+ Rust,
  ReasonML,
  Clojure,
  ClojureScript,
- Rust,
  WebAssembly,
  Kotlin,
  Elm,
@@ -60,10 +60,19 @@ Engineering & General Management
 CAREER TIMELINE
 ===============
 
-03/20 – Present, ***Operations Research Analyst***
--------------------------------------------------
+05/22 - Present, ***Geospatial Data Scientist***
+------------------------------------------------
+_[\@ORNL](https://twitter.com/ORNL)_
+
+* Work closely with senior R&D professionals, providing impactful machine learning engineering and advanced analytical contributions to the conceptualization and design of new approaches that solve pressing national security challenges.
+* Provide coding support to implement new algorithms as proof of concept or prototype to test effectiveness and scalability of the proposed solutions.
+* Work in a highly collaborative environment with data scientists, machine learning scientists, remote sensing scientists, engineers, physicists and geographers to deliver systems from prototyping to production level.
+
+03/20 – 04/22, ***Operations Research Analyst / Data Scientist***
+-----------------------------------------------------------------
 _[\@US_Stratcom](https://twitter.com/US_Stratcom)_
 
+* Contributor to the DoD [Artificial Intelligence Design Engineering for People and Technology (ADEPT)](https://community.apan.org/wg/adept-framework/) framework.
 * Deputy team lead and Information System Security Manager (ISSM) for multi-million effort in support of national objectives
 * Artificial Intelligence and Machine Learning (AI/ML) subject matter expert for the Advanced Warfare Solutions branch
 * Data scientist tasked with developing better understanding of operations with the goal improving mission effectiveness and efficiency.
