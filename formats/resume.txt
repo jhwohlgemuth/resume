@@ -4,6 +4,7 @@
 Programming
 -----------
  * _(Experienced)_
+ Rust,
  PowerShell,
  Python,
  C#,
@@ -12,12 +13,11 @@ Programming
  Node.js,
  HTML/XML/CSS
  * _(Familiar)_
+ WebAssembly,
  Julia,
- Rust,
  ReasonML,
  Clojure,
  ClojureScript,
- WebAssembly,
  Kotlin,
  Elm,
  R

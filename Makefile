@@ -7,7 +7,7 @@ install:
 	npm i -g @funboxteam/languagetool-node
 
 configure:
-	pwsh -Command "Copy-Item .\.languagetoolrc.js ~"
+	pwsh -Command "Copy-Item ./.languagetoolrc.js ~"
 
 setup: install configure
 
@@ -20,10 +20,10 @@ convert:
 	cd formats && sh ./convert.sh
 
 copy:
-	cp .\formats\resume.html .\index.html
+	cp ./formats/resume.html ./index.html
 
 open:
-	npx open-cli .\index.html
+	npx open-cli ./index.html
 
 check:
 	npx linkinator http://resume.jasonwohlgemuth.com
