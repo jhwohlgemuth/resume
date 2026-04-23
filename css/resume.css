@@ -138,6 +138,12 @@ blockquote > p {
   padding: 1rem;
 }
 
+#orcid {
+	font-size: 0.9em;
+	text-align: center;
+	padding-bottom: 5px;
+}
+
 #tagline {
 	font-size: 1.3em;
 	text-align: center;
