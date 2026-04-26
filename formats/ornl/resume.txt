@@ -1,4 +1,4 @@
-KNOWLEDGE
+﻿KNOWLEDGE
 =========
 
 Programming / Technology
@@ -55,8 +55,7 @@ _[US_Stratcom](https://twitter.com/US_Stratcom)_
 * Served as AI/ML subject matter expert for the Advanced Warfare Solutions branch; advised senior leadership on emerging technologies and their operational implications.
 * Developed mathematical models and software tools using scientific methods to evaluate and predict mission support capabilities across multiple programs.
 * Applied operations research techniques — including genetic algorithms for problems with no closed-form solution — to improve mission effectiveness and efficiency.
-* **Network analysis** thesis (see [publications](#publications-citations)) demonstrated applied graph theory at scale using real-world social network data.
-* **Owned security baseline**: monitored releases, reviewed changelogs, applied version updates, filed security impact reports, and trained teammates on modern tooling.
+* Owned security baseline — monitored releases, reviewed changelogs, applied version updates, filed security impact reports, and trained teammates on modern tooling.
 
 11/15 - 03/20, ***Principal Software Engineer***
 --------------------------------------------------
@@ -72,7 +71,7 @@ _[BAESystemsInc](https://twitter.com/BAESystemsInc)_
 
 06/18 - 07/19, ***Exercise Planner & Readiness Coordinator***
 -----------------------------------------------------------
-_[CJTFHOA](https://twitter.com/CJTFHOA)_
+_[CJTFHOA](https://twitter.com/CJTFHOA)_ (Mobilized to Djibouti in support of Operation Noble Eagle)
 
  * Planned and led cross-functional teams executing large-scale joint exercises.
  * Tracked and reported command readiness; ensured assessments were timely, accurate, and actionable for leadership.
@@ -142,6 +141,8 @@ PUBLICATIONS & CITATIONS
 PROFESSIONAL AWARDS
 ===================
 
+* __2025__  Best workshop award (ORNL Data Expo 2025)
+* __2024__  ORNL Community Outreach Award
 * __2022__  Navy Commendation Medal
 * __2017__  Joint Service Achievement Medal
 * __2014__  Joint Service Commendation Medal
