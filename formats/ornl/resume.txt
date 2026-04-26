@@ -1,4 +1,4 @@
-﻿KNOWLEDGE
+KNOWLEDGE
 =========
 
 Programming / Technology
@@ -39,12 +39,12 @@ _[ORNL](https://twitter.com/ORNL)_
 * Prototype and validate new algorithms, evaluating effectiveness and scalability before full deployment.
 * Contribute geospatial visualization expertise to cross-disciplinary teams spanning data science, ML, remote sensing, physics, and geography; recognized [CesiumGS/cesium contributor](https://github.com/CesiumGS/cesium/blob/main/CONTRIBUTORS.md).
 * Build and publish containerized environments using Docker and Apptainer.
-* Architect automated data ingestion and processing pipelines; define API and data contracts using [TypeSpec](https://typespec.io/) schemas ([purple](https://github.com/jhwohlgemuth/purple)), and type-safe interfaces.
+* Architect automated data ingestion and processing pipelines; define API and data contracts using DSLs such as [TypeSpec](https://typespec.io/), schemas ([purple](https://github.com/jhwohlgemuth/purple)), and type-safe data models.
 * Implement end-to-end MLOps workflows (similar to MLflow or DVC) for experiment tracking, model lifecycle management, and reproducible science.
 * Manage the full scientific data lifecycle — ingestion to publication — using technology such as S3-compatible object storage and CKAN data catalogs.
 * Enforce GitOps practices via GitHub Actions CI/CD with automated security scanning (Checkov, Hadolint, ShellCheck, etc.).
 
-> Visit my [GitHub account](https://github.com/jhwohlgemuth) for examples — including [gold](https://github.com/jhwohlgemuth/gold), a containerized dev environment, and [pwsh-prelude](https://github.com/jhwohlgemuth/pwsh-prelude), a cross-platform PowerShell standard library (42 ⭐)
+> Visit my [GitHub account](https://github.com/jhwohlgemuth) for examples — including [gold](https://github.com/jhwohlgemuth/gold), a containerized dev environment, and [pwsh-prelude](https://github.com/jhwohlgemuth/pwsh-prelude), a cross-platform PowerShell standard library (42 stars)
 
 03/20 - 04/22, ***Operations Research Analyst / Data Scientist***
 -----------------------------------------------------------------
